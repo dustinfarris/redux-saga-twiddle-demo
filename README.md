@@ -1,27 +1,3 @@
 # Redux-saga-twiddle-demo
 
-This README outlines the details of collaborating on this Ember addon.
-
-## Installation
-
-* `git clone <repository-url>` this repository
-* `cd redux-saga-twiddle-demo`
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
+[ember-twiddle.com/fc1e2fcc43ba616db948a73cbf8d8b48](https://ember-twiddle.com/fc1e2fcc43ba616db948a73cbf8d8b48?openFiles=components.my-counter.component.js%2C)
